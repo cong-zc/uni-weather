@@ -2,7 +2,9 @@
 
 #项目描述
 
-用uni-app做的网页版天气预报,使用的是免费带api ,接口地址https://tianqiapi.com/api,网站:http://tianqiapi.com/
+用uni-app做的网页版天气预报,使用的是免费api ,接口地址https://tianqiapi.com/api,网站:http://tianqiapi.com/
+
+这个接口返回的空气质量似乎有问题,后台的值有时候会变成0,就像我下面带截图,明明昨天还是正常的
 
 由于技术力不行,所以只做了个demo,实现了一些比较简单的功能
 
