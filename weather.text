@@ -1,0 +1,38 @@
+<!-- 
+			<card>
+			城市信息 左上角 city country
+			背景图 中间
+			当前日期 右上角 week uptime 
+				<div leftbottome>
+				实时温度 左下
+				天气 wea wea_img tem 
+				最高温 最低温 tem1 2
+				空气质量 air 
+				</div>
+			</card>
+			<card>
+				七日概况
+				使用图表显示
+				<tab>
+					七日温度 天气状况 wea
+				</tab>
+				<tab>
+					空气质量 air air-tips level
+				</tab>
+				<tab>
+					七日风况 win win-speed meter
+				</tab>
+			</card>
+			杂项
+			<card>
+				<tab>
+					空气质量详细信息 air air-tips level humidity visibility
+				</tab>
+				<tab>
+					气压 pressure
+				</tab>
+				<tab>
+					风速等信息 win win-speed meter
+				</tab>
+			</card>
+		 -->
