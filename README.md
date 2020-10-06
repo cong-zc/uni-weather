@@ -14,7 +14,7 @@
 #第一次上传这个天气预报还很简陋,但我相信随着我以后慢慢把那些计划中的功能实现,它一定会成为一个优秀带天气预报网页的!大概吧(笑)
 
 预览图一号:
-![image]()
+![image](https://github.com/Haru-Arashi/uni-weather/blob/master/src/static/uni-weather-demo1.jpg)
 ## Project setup
 ```
 yarn install
